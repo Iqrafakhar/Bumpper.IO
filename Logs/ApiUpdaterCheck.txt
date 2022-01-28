@@ -1,0 +1,70 @@
+[api-updater (non-obsolete-error-filter)] 1/25/2022 2:16:44 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 752.794ms
+moved types parse time: 120ms
+candidates parse time : 1ms
+C# parse time         : 577ms
+candidates check time : 48ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 1/25/2022 3:42:08 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 554.836ms
+moved types parse time: 115ms
+candidates parse time : 1ms
+C# parse time         : 525ms
+candidates check time : 39ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/25/2022 10:32:29 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 559.693ms
+moved types parse time: 162ms
+candidates parse time : 1ms
+C# parse time         : 642ms
+candidates check time : 64ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 1/25/2022 10:33:51 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 63.825ms
+moved types parse time: 80ms
+candidates parse time : 1ms
+C# parse time         : 328ms
+candidates check time : 47ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/25/2022 10:45:09 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 53.14ms
+moved types parse time: 59ms
+candidates parse time : 1ms
+C# parse time         : 238ms
+candidates check time : 35ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/25/2022 10:46:47 PM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 55.202ms
+moved types parse time: 66ms
+candidates parse time : 1ms
+C# parse time         : 244ms
+candidates check time : 37ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 1/28/2022 6:26:35 AM : Starting /home/iqra/UnityHubBeta/UnityHub/2020.3.25f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 60.541ms
+moved types parse time: 72ms
+candidates parse time : 2ms
+C# parse time         : 288ms
+candidates check time : 37ms
+console write time    : 0ms
+
